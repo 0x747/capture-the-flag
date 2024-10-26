@@ -1,0 +1,4 @@
+1. User burpsuite to capture responses
+2. Mangle the OTP request by removing the field entirely
+
+https://www.youtube.com/watch?v=TQbPfP48Dhk

@@ -1,0 +1,8 @@
+https://fastbitlab.com/wp-content/uploads/2022/05/Figure-1-15.png
+
+1. Convert each letter to its ASCII Hex value
+
+Ex: abcd = 61 62 63 64
+
+Little endian representation: 64636261
+Big endian: 61626364

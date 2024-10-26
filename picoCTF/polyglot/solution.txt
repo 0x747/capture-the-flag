@@ -1,0 +1,2 @@
+1. First half of the flag can be retrieved by opening the original PDF as a PNG.
+2. Second half is inside the original PDF.

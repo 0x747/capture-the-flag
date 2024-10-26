@@ -1,0 +1,8 @@
+What is 0x3D (base 16) in decimal (base 10)?
+
+D = 13 * (16 ^ 0) = 13
+3 = 3  * (16 ^ 1) = 48
+
+13 + 48 = 61
+
+Flag: picoCTF{61}

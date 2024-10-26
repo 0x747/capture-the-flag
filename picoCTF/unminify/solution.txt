@@ -1,0 +1,2 @@
+1. User view-source and copy the HTML code
+2. Use https://unminify.com/ to unminify the code
