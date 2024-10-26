@@ -1,0 +1,4 @@
+1. See all commits made to the repo and find the hash of one where the flag was commited.
+2. Use either of the following:
+    - git show <commit_hash>  :  to see the changes made to the file, flag should show up as +picoCTF{sd333_3fcsd}.
+    - git reset --hard <commit_hash>  :  reverts the repo to the commit hash.
