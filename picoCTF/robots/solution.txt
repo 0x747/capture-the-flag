@@ -1,0 +1,2 @@
+1. The name of the challenge hints to robots.txt
+2. Navigate to /robots.txt and then go to the html file which is disallowed

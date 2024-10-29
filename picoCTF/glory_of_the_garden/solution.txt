@@ -1,0 +1,2 @@
+1. Download HxD from https://mh-nexus.de/en/downloads.php?product=HxD20
+2. Open garden.jpg and search for "picoCTF". It should be at the end of the hex dump. 

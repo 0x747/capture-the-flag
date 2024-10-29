@@ -1,0 +1,5 @@
+1. SSH into the endpoint.
+
+Flag is divided into 3 parts
+
+2. Use cd and cat and follow the given directions. 
