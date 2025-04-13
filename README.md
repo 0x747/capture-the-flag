@@ -1,68 +1,20 @@
-[picoCTF](./picoCTF)
- - [easy](./picoCTF/easy)
-    - [13](./picoCTF/easy/13)
-    - [2Warm](./picoCTF/easy/2warm/solution.md) - write up
-    - [bases](./picoCTF/easy/bases)
-    - [big_zip](./picoCTF/easy/big_zip)
-    - [binary_search](./picoCTF/easy/binary_search)
-    - [binhexa](./picoCTF/easy/binhexa)
-    - [blame_game](./picoCTF/easy/blame_game)
-    - [bookmarklet](./picoCTF/easy/bookmarklet)
-    - [can_you_see](./picoCTF/easy/can_you_see)
-    - [collaborative_development](./picoCTF/easy/collaborative_development)
-    - [commitment_issue](./picoCTF/easy/commitment_issue)
-    - [convertme.py](./picoCTF/easy/convertme.py)
-    - [cookbook](./picoCTF/easy/cookbook)
-    - [cookies](./picoCTF/easy/cookies)
-    - [dont-use-client-side](./picoCTF/easy/dont-use-client-side)
-    - [endianess](./picoCTF/easy/endianess)
-    - [first_find](./picoCTF/easy/first_find)
-    - [first_grep](./picoCTF/easy/first_grep)
-    - [fixme1.py](./picoCTF/easy/fixme1.py)
-    - [fixme2.py](./picoCTF/easy/fixme2.py)
-    - [format_string_0](./picoCTF/easy/format_string_0)
-    - [get_ahead](./picoCTF/easy/get_ahead)
-    - [glitch_cat](./picoCTF/easy/glitch_cat)
-    - [glory_of_the_garden](./picoCTF/easy/glory_of_the_garden)
-    - [hashing_job_app](./picoCTF/easy/hashing_job_app)
-    - [heap_0](./picoCTF/easy/heap_0)
-    - [includes](./picoCTF/easy/includes)
-    - [information](./picoCTF/easy/information)
-    - [insp3ct0r](./picoCTF/easy/insp3ct0r)
-    - [inspect_html](./picoCTF/easy/inspect_html)
-    - [interencdec](./picoCTF/easy/interencdec)
-    - [intro_to_burp](./picoCTF/easy/intro_to_burp)
-    - [lets_warm_up](./picoCTF/easy/lets_warm_up)
-    - [local_authority](./picoCTF/easy/local_authority)
-    - [logon](./picoCTF/easy/logon)
-    - [magikarp_ground_mission](./picoCTF/easy/magikarp_ground_mission)
-    - [mod_26](./picoCTF/easy/mod_26)
-    - [nice_netcat](./picoCTF/easy/nice_netcat)
-    - [obedient_cat](./picoCTF/easy/obedient_cat)
-    - [pw_crack_1](./picoCTF/easy/pw_crack_1)
-    - [pw_crack_2](./picoCTF/easy/pw_crack_2)
-    - [python_wrangling](./picoCTF/easy/python_wrangling)
-    - [repetition](./picoCTF/easy/repetition)
-    - [robots](./picoCTF/easy/robots)
-    - [runme.py](./picoCTF/easy/runme.py)
-    - [scan_surprise](./picoCTF/easy/scan_surprise)
-    - [scavenger_hunt](./picoCTF/easy/scavenger_hunt)
-    - [secret_of_the_polyglot](./picoCTF/easy/secret_of_the_polyglot)
-    - [static_aint_always_noise](./picoCTF/easy/static_aint_always_noise)
-    - [strings_it](./picoCTF/easy/strings_it)
-    - [super_ssh](./picoCTF/easy/super_ssh)
-    - [tab_tab_attack](./picoCTF/easy/tab_tab_attack)
-    - [the_numbers](./picoCTF/easy/the_numbers)
-    - [time_machine](./picoCTF/easy/time_machine)
-    - [transformation](./picoCTF/easy/transformation)
-    - [unminify](./picoCTF/easy/unminify)
-    - [vault-door-training](./picoCTF/easy/vault-door-training)
-    - [verify](./picoCTF/easy/verify)
-    - [warmed_up](./picoCTF/easy/warmed_up)
-    - [wave_a_flag](./picoCTF/easy/wave_a_flag)
-    - [web_decode](./picoCTF/easy/web_decode)
-    - [whats_a_net_cat](./picoCTF/easy/whats_a_net_cat)
-- [medium](./picoCTF/medium)
-    - [format_string_3](./picoCTF/medium/format_string_3)
-    - [no_sql_injection](./picoCTF/medium/no_sql_injection)
-    - [trickster](./picoCTF/medium/trickster)
+# 1753ctf - Apr 11, 2025
+
+- Team: weareurs
+- Placed: 253/467
+
+## Solved 
+
+- [Sanity Check](./1753ctf/sanity-check.md)
+- [UFO Over Nashville](./1753ctf/ufo-over-nashville.md)
+
+# JerseyCTF - Mar 30, 2025
+
+- Team: poohSEC
+- Placed: 32/407
+
+## Solved 
+
+- [Encoded-Deception]()
+- [On The Shoulders of Giants](./JerseyCTF-2025/on-the-shoulders-of-giants.md)
+- [Tinker Tailor Soldier Spy](./JerseyCTF-2025/tinker-tailor-soldier-spy.md)
