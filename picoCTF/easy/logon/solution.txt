@@ -1,4 +1,0 @@
-1. The page allows you to log in with any random username and password, except Joe.
-2. If you look at the network requests after logging in, there's a cookie named 'admin' with its value set to 'False'.
-3. You can use a tool like Burp to modify the network request and set the admin cookie to 'True'.
-4. The flag will be displayed on the webpage.

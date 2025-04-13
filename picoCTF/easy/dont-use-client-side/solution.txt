@@ -1,2 +1,0 @@
-1. View page source
-2. Flag is split into substrings, start at 0 and work your way to the final }

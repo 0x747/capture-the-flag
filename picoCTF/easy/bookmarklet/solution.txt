@@ -1,1 +1,0 @@
-1. Copy and execute the JS code in the browser's console. 

@@ -1,2 +1,0 @@
-1. Use something like Postman or burp to change the request method to HEAD
-2. The flag is in the response headers

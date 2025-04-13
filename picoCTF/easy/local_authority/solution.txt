@@ -1,4 +1,0 @@
-1. View page source.
-2. Look around and find login.php.
-3. Look inside login.php and find secure.js.
-4. Use the username and password given.

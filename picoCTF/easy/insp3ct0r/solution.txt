@@ -1,4 +1,0 @@
-1. View page sourve
-2. First flag is inside the html file as a comment
-3. Second is a comment inside the css file
-4. Third is a comment in the js file

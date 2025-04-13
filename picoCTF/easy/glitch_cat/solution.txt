@@ -1,2 +1,0 @@
-1. Copy the glitched flag
-2. Paste and run it in the python interactive shell or any python interpreter of your choice.

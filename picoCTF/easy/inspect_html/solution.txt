@@ -1,2 +1,0 @@
-1. View page source
-2. Flag is inside an HTML comment 

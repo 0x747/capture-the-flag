@@ -1,8 +1,0 @@
-1. First flag is in index.html as a comment
-2. Second part in mycss.css as a comment
-3. The hint is myjs.js if referring to robots.txt, which includes rules for webcrawlers.
-4. Navigating to /robots.txt will give you the third part. 
-5. The hint inside robots.txt refers to the .htaccess file.
-6. Navigate to /.htaccess, you'll find the fourth flag there. 
-7. The hint refers to the .DS_Store file found in MacOS.
-8. You'll find the final flag in /.DS_Store.
