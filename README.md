@@ -15,6 +15,6 @@
 
 ## Solved 
 
-- [Encoded-Deception]()
+- [Encoded-Deception](./JerseyCTF-2025/encoded-deception.md)
 - [On The Shoulders of Giants](./JerseyCTF-2025/on-the-shoulders-of-giants.md)
 - [Tinker Tailor Soldier Spy](./JerseyCTF-2025/tinker-tailor-soldier-spy.md)
