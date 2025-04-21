@@ -1,7 +1,7 @@
 # DawgCTF - Apr 18, 2025
 
 - Team: underground research society
-- Place: 94/1220
+- Placed: 94/1220
 
 ## Solved
 

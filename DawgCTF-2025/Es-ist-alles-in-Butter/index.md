@@ -10,7 +10,7 @@
 
 The challenge text is in German and we need to translate it:
 
-```txt
+```md
 My buddy and I went for a walk in a shopping mall during our visit to Germany. When we were there, we got very hungry and decided to go to a supermarket to buy fresh bread and kebabs. When we got to the store, we were pleasantly surprised to find that there was a bread slicer there! That was very practical. We wanted to go back, but we had forgotten where the shop was! Stupid Americans, aren't they? Anyway, we were lucky because my buddy happened to take a photo in the area because he liked the architecture. Can you help us find the supermarket so we can buy some fresh bread before we fly back?
 ```
 
