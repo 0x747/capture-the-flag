@@ -22,7 +22,7 @@ So this is a stadium and there is a logo of a horse which reminded me of the Bro
 
 ![alt text](screenshots/image.png)
 
-Looking around there is a flipped banner spelling something like "BOISE" so I guessed i] must be in Boise, Idaho
+Looking around there is a flipped banner spelling something like "BOISE" so I guessed it must be in Boise, Idaho
 
 Flipped view of the banner:
 
@@ -30,7 +30,7 @@ Flipped view of the banner:
 
 Spells something like BO(I)SE
 
-I googled "Boise broncos"  and found the a matching logo, which belongs to the "Boise State Broncos" Next I just looked for the "Boise State Broncos Stadium"
+I googled "Boise broncos"  and found the a matching logo, which belongs to the "Boise State Broncos". Next I just looked for the "Boise State Broncos Stadium"
 
 ![alt text](screenshots/image-3.png)
 
