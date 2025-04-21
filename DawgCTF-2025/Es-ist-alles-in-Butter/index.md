@@ -38,6 +38,4 @@ I decided to just look on Google Maps instead and found `Kaufland Berlin-Moabit`
 
 ![alt text](screenshots/image-1.png)
 
-Kaufland is mentioned on their website, but it doesn't have show its full name.
-
-
+Kaufland is mentioned on their website, but it doesn't have its full name.

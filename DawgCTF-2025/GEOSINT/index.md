@@ -30,7 +30,7 @@ Flipped view of the banner:
 
 Spells something like BO(I)SE
 
-I googled "Boise broncos"  and found the a matching logo, which belongs to the "Boise State Broncos". Next I just looked for the "Boise State Broncos Stadium"
+I googled "Boise broncos"  and found the matching logo, which belongs to the "Boise State Broncos". Next I just looked for the "Boise State Broncos Stadium"
 
 ![alt text](screenshots/image-3.png)
 
