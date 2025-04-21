@@ -1,5 +1,7 @@
 # Encoded-Deception
 
+#web
+
 I forgot to save screenshots for this and the challange site is now offline: https://encoded-deception.aws.jerseyctf.com/
 
 ## Part 1 of the flag
