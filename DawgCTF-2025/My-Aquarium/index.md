@@ -11,7 +11,7 @@
 
 After exploring each page, we can see that "Sea Animal Facts" is different. It opens a `.txt` file on a different domain `https://onlineaquarium.blob.core.windows.net/aquarium/resources/sea-animal-facts.txt`
 
-Researching a bit about the domain reveals that it is for Azure's blog storage, which is like AWS S3.
+Researching a bit about the domain reveals that it is for Azure's blob storage, which is like AWS S3.
 
 ## The exploit
 
