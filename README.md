@@ -1,7 +1,19 @@
+
+# CTF@CIT-2025 - Apr 25, 2025
+
+- Team: underground research society
+- Placed: 105/950
+
+## Solved
+
+- [Robots](/CTF@CIT-2025/Robots/index.md)
+- [No Country for Old Keys](/CTF@CIT-2025/No-Country-for-Old-Keys/index.md)
+- [Calculator](/CTF@CIT-2025/Calculator/index.md)
+
 # DawgCTF - Apr 18, 2025
 
 - Team: underground research society
-- Placed: 94/1220
+- Placed: 94/760
 
 ## Solved
 
